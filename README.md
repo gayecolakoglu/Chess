@@ -40,7 +40,8 @@ I draw the board to command line as shown above.
 
 ![image](https://user-images.githubusercontent.com/55553433/152217632-bcfe9ff2-1d07-4f51-8a91-ad0580b0f5d8.png)
 
-![image](https://user-images.githubusercontent.com/55553433/152217681-1eef997f-0008-4ee8-b4a6-b85158e1751d.png)
+![image](https://user-images.githubusercontent.com/55553433/152217928-a2482e4c-ed65-4592-ac0a-c109d5eb978c.png)
+
 
 In two attempts location of the white piece was not correct. In fact the main logic of the
 application is given in Main class which is available in Appendix. You will also find
