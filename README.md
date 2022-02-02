@@ -36,7 +36,7 @@ I draw the board to command line as shown above.
 
 ## Example Execution
 
-![image](https://user-images.githubusercontent.com/55553433/152217588-9832e0a7-1891-4bdb-8ebc-ad1b0fd091be.png)![image](https://user-images.githubusercontent.com/55553433/152217632-bcfe9ff2-1d07-4f51-8a91-ad0580b0f5d8.png)![image](https://user-images.githubusercontent.com/55553433/152217928-a2482e4c-ed65-4592-ac0a-c109d5eb978c.png)
+![image](https://user-images.githubusercontent.com/55553433/152217588-9832e0a7-1891-4bdb-8ebc-ad1b0fd091be.png) ![image](https://user-images.githubusercontent.com/55553433/152217632-bcfe9ff2-1d07-4f51-8a91-ad0580b0f5d8.png) ![image](https://user-images.githubusercontent.com/55553433/152217928-a2482e4c-ed65-4592-ac0a-c109d5eb978c.png)
 
 
 In two attempts location of the white piece was not correct. In fact the main logic of the
